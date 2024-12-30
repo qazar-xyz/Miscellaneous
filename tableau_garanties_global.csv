@@ -1,0 +1,88 @@
+Prestations,Quantité,Prix,BRSS,BR base,Forfait base,BR 1,Forfait 1,BR 2,Forfait 2
+FRAIS MEDICAUX & AIDE AUDITIVE  Auprès d'un professionnel conventionné ou non,0,0,,,,,,,
+Honoraires médicaux,0,0,,,,,,,
+Consultation (y compris en ligne) et visite,0,0,,,,,,,
+Médecin généraliste adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,26.0,2.0,,2.5,,3.0,
+Médecin généraliste non adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,26.0,1.8,,2.3,,2.8,
+Spécialiste adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,30.0,2.0,,2.5,,3.0,
+Spécialiste non adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,30.0,1.8,,2.3,,2.8,
+Actes techniques médicaux,0,0,,,,,,,
+Praticien adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,30.0,2.0,,2.5,,3.0,
+Praticien non adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,30.0,1.8,,2.3,,2.8,
+Actes d'imagerie médicale,0,0,,,,,,,
+Praticien adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,30.0,2.0,,2.5,,3.0,
+Praticien non adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,30.0,1.8,,2.3,,2.8,
+Honoraires paramédicaux remboursés par la Sécurité sociale,0,0,,,,,,,
+"Infirmières, kinésithérapeutes et autres auxiliaires médicaux",0,0,16.0,2.0,,2.5,,3.0,
+Analyses et examens de laboratoire,0,0,10.0,2.0,,2.5,,3.0,
+Matériel médical,0,0,,,,,,,
+Appareillage et prothèses médicales (hors aide auditive et optique),0,0,100.0,2.0,,2.5,,3.0,
+Frais de transport sanitaire,0,0,,,,,,,
+"Ambulance, taxi conventionné - hors SMUR",0,0,50.0,2.0,,2.5,,3.0,
+Aide auditive,0,0,,,,,,,
+Équipement autre que 100 % Santé (Classe II),0,0,,,,,,,
+Plafond par aide auditive (hors accessoires) y compris le remboursement de la Sécurité sociale,0,0,,,1700.0,,,,
+Appareil auditif par bénéficiaire âgé de moins de 21 ans ou atteint de cécité - Dans le réseau Kalixia,0,0,,,650.0,,850.0,,1050.0
+Appareil auditif par bénéficiaire âgé de 21 ans et plus - Dans le réseau Kalixia,0,0,,,500.0,,700.0,,900.0
+Appareil auditif par bénéficiaire âgé de moins de 21 ans ou atteint de cécité - Hors réseau Kalixia,0,0,,,650.0,,850.0,,1050.0
+Appareil auditif par bénéficiaire âgé de 21 ans et plus - Hors réseau Kalixia,0,0,,,400.0,,600.0,,800.0
+HOSPITALISATION  En établissement conventionné ou non conventionné,0,0,,,,,,,
+Frais de séjour,0,0,20.0,2.0,,2.5,,3.0,
+Honoraires,0,0,,,,,,,
+Praticien adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,30.0,2.0,,2.5,,3.0,
+Praticien non adhérent aux dispositifs de pratique tarifaire maîtrisée,0,0,30.0,1.8,,2.3,,2.8,
+Forfait journalier hospitalier,0,0,,,,,,,
+Chambre particulière non remboursée par la Sécurité sociale,0,0,,,,,,,
+Par nuitée,0,0,,,60.0,,70.0,,80.0
+Par journée (hospitalisation en ambulatoire),0,0,,,60.0,,70.0,,80.0
+"Frais d'accompagnant (lit, transport, repas) non remboursés par la Sécurité sociale",0,0,,,,,,,
+Par nuitée et par bénéficiaire âgé de moins de 16 ans ou de 70 ans et plus,0,0,,,25.0,,45.0,,65.0
+Forfait maternité ou adoption plénière (doublée en cas de naissance gémellaire),0,0,,,300.0,,400.0,,500.0
+DENTAIRE,0,0,,,,,,,
+Soins autres que 100 % Santé,0,0,,,,,,,
+"Soins conservateurs, endodontie, prophylaxie bucco-dentaire, parodontologie",0,0,12.0,2.0,,2.5,,3.0,
+Parodontologie non remboursée par la Sécurité sociale (forfait/an/bénéficiaire),0,0,,,250.0,,350.0,,450.0
+Prothèses autres que 100 % Santé - Dans et hors réseau Kalixia,0,0,,,,,,,
+Inlays-onlays,0,0,100.0,2.0,,2.5,,3.0,
+Autres prothèses dentaires remboursées par la Sécurité sociale,0,0,100.0,3.25,,3.75,,4.25,
+Prothèses dentaires non remboursées par la Sécurité sociale (forfait/an/bénéficiaire),0,0,,,300.0,,400.0,,500.0
+Orthodontie - Dans et hors réseau Kalixia,0,0,,,,,,,
+Remboursée par la Sécurité sociale (par semestre)Remboursée par la Sécurité sociale (par semestre),0,0,,6.5,,7.5,,8.5,
+Non remboursée par la Sécurité sociale (forfait/an/bénéficiaire),0,0,,,600.0,,700.0,,800.0
+Implantologie - Dans et hors réseau Kalixia,0,0,,,,,,,
+"Scanner, pose de l'implant, pilier implantaire non remboursés par la Sécurité sociale (forfait/an/bénéficiaire)",0,0,,,600.0,,800.0,,1000.0
+OPTIQUE,0,0,,,,,,,
+Équipement autre que 100 % Santé (Classe B)  - Dans le réseau Kalixia,0,0,,,,,,,
+Par monture,0,0,,,90.0,,110.0,,130.0
+Par verre simple,0,0,,,70.0,,140.0,,140.0
+Par verre complexe,0,0,,,120.0,,240.0,,240.0
+Par verre très complexe,0,0,,,170.0,,340.0,,340.0
+Équipement autre que 100 % Santé  (Classe B) - Hors réseau Kalixia,0,0,,,,,,,
+Par monture,0,0,,,80.0,,100.0,,120.0
+Par verre simple,0,0,,,70.0,,140.0,,140.0
+Par verre complexe,0,0,,,120.0,,240.0,,240.0
+Par verre très complexe,0,0,,,170.0,,340.0,,340.0
+Lentilles prescrites,0,0,,,,,,,
+Remboursées par la Sécurité sociale (forfait/an/bénéficiaire),0,0,,,150.0,,250.0,,350.0
+Non remboursées par la Sécurité sociale y compris jetables (forfait/an/bénéficiaire),0,0,,,150.0,,250.0,,350.0
+Chirurgie optique réfractive,0,0,,,,,,,
+Forfait par œil et par bénéficiaire,0,0,,,200.0,,300.0,,400.0
+Implants multifocaux ou toriques lors d'une chirurgie de la cataracte,0,0,,,,,,,
+Forfait par œil et par bénéficiaire,0,0,,,,,,,
+PRÉVENTION & BIEN-ÊTRE,0,0,,,,,,,
+Médecines douces,0,0,,,,,,,
+"Acupuncture, chiropractie, diététique, ergothérapie, hypnose, méthode Mézière, ostéopathie, pédicure-podologie, psychomotricité, sophrologie, tabacologie (forfait/an/bénéficiaire)",0,0,,,100.0,,150.0,,200.0
+Honoraires de psychologue,0,0,,,,,,,
+Honoraires non remboursés par la Sécurité sociale,0,0,,,,,,,
+Montant par séance,0,0,,,40.0,,50.0,,50.0
+Nombre de séances/an/bénéficiaire,0,0,,,,,,,
+Pharmacie non remboursée par la Sécurité sociale,0,0,,,,,,,
+Médicaments prescrits non remboursés par la Sécurité sociale  (forfait/an/bénéficiaire),0,0,,,40.0,,50.0,,60.0
+Autres vaccins non remboursés par la Sécurité sociale (forfait/an/bénéficiaire),0,0,,,20.0,,30.0,,40.0
+Contraception non remboursée par la Sécurité sociale (forfait/an/bénéficiaire),0,0,,,20.0,,30.0,,40.0
+Sevrage tabagique (forfait/an/bénéficiaire),0,0,,,40.0,,60.0,,80.0
+Ostéodensitométrie non remboursée par la Sécurité sociale,0,0,,,,,,,
+Forfait par an et par bénéficiaire âgé de 50 ans et plus,0,0,,,30.0,,50.0,,70.0
+Cure thermale remboursée par la Sécurité sociale,0,0,,,,,,,
+"Honoraires, forfaits de surveillance médicale et thermale, forfait transport et hébergement thermal",0,0,50.0,1.0,,2.0,,2.0,
+Forfait pour cure thermale remboursée par la Sécurité sociale (forfait/an/bénéficiaire),0,0,,,200.0,,300.0,,400.0
